@@ -5,8 +5,9 @@
 
 ## Выделить том под /home.
 
-подключил к виртуальной машине диск 5Гб (ыви)
+
 ```
+# подключил к виртуальной машине диск 5Гб (ыви)
 root@lp-ubn2:/home/sadmin# lsblk
 NAME                      MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
 sda                         8:0    0   30G  0 disk
